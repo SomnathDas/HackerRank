@@ -25,7 +25,7 @@ This repository contains my solutions for HackerRank problems and also certifica
 ## HackerRank Certificates
 
 <a href="Certificates/javascript-basic-certification.png">
-    <img src="Badges/javascript_basic_skill.png" alt="JavaScript Basic Certificate"/>
+    <img src="Badges/javascript_basic_skill.jpg" alt="JavaScript Basic Certificate"/>
 </a>
 
 
