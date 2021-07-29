@@ -24,8 +24,8 @@ This repository contains my solutions for HackerRank problems and also certifica
 
 ## HackerRank Certificates
 
-<a href="Skills%20Certification/JavaScript%20(Basic)%20Certificate.png">
-    <img src="Badges/javascript_basic_skill.png" alt="JavaScript (Basic) Certificate"/>
+<a href="https://github.com/SomnathDas/HackerRank/blob/main/Certificates/javascript-basic-certification.png">
+    <img src="Badges/javascript_basic_skill.png" alt="JavaScript Basic Certificate"/>
 </a>
 
 
