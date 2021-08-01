@@ -12,7 +12,7 @@
 
 This repository contains my solutions for HackerRank problems and also certifications.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/SomnathDas/HackerRank)](https://github.com/SomnathDas/HackerRank/commits/master)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SomnathDas/HackerRank)](https://github.com/SomnathDas/HackerRank/commits/main)
 
 ## My HackerRank Profile
 <div align="center">
