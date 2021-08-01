@@ -42,6 +42,15 @@ This repository contains my solutions for HackerRank problems and also certifica
 | Maximum Draws           |       [ProblemUrl](https://www.hackerrank.com/challenges/maximum-draws/problem)      | Easy       | 5     |     [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Mathematics/maximumDraws.js)     |
 | Minimum Height Triangle |    [ProblemUrl](https://www.hackerrank.com/challenges/lowest-triangle/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Mathematics/minimumHeightTriangle.js)      |
 
+## 1 Week Preparation
+### Day-1
+| Name                    | Problem Url | Difficulty | Score | Solution |
+|-------------------------|-------------|------------|-------|----------|
+| Plus Minus          |       [ProblemUrl](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)      | Easy       | 100     |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/One-Week-Preparation/Day1/plusMinus.js)       |
+| Mini Max Sum              |     [ProblemUrl](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)        | Easy       | 100    |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/One-Week-Preparation/Day1/miniMaxSum.js)       |
+| Time Conversion           |       [ProblemUrl](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)      | Easy       | 100     |     [Solution](https://github.com/SomnathDas/HackerRank/blob/main/One-Week-Preparation/Day1/timeConversion.js)     |
+
+
 ## Certificates
 | Skill      | Difficulty | Certificates |
 |------------|------------|--------------|
