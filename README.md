@@ -31,8 +31,9 @@ This repository contains my solutions for HackerRank problems and also certifica
 
 ## Table Of Contents
 
-* [Mathmatics](#mathematics)
 * [Certificates](#certificates)
+* [Mathmatics](#mathematics)
+* [1-Week-Preparation](#1-week-preparation)
 
 ## Mathematics
 | Name                    | Problem Url | Difficulty | Score | Solution |
@@ -42,7 +43,7 @@ This repository contains my solutions for HackerRank problems and also certifica
 | Maximum Draws           |       [ProblemUrl](https://www.hackerrank.com/challenges/maximum-draws/problem)      | Easy       | 5     |     [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Mathematics/maximumDraws.js)     |
 | Minimum Height Triangle |    [ProblemUrl](https://www.hackerrank.com/challenges/lowest-triangle/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Mathematics/minimumHeightTriangle.js)      |
 
-## 1 Week Preparation
+## 1-Week-Preparation
 ### Day-1
 | Name                    | Problem Url | Difficulty | Score | Solution |
 |-------------------------|-------------|------------|-------|----------|
