@@ -38,6 +38,7 @@ function readLine() {
 
 // Main Function
 function timeConversion(s) {
+  // Regex below matches any sequence of 2 digits. For More Info: http://www.regular-expressions.info/reference.html
   var time = s.match(/\d{2}/g);
   if (time[0] === "12") time[0] = "00";
   if (s.indexOf("PM") > -1) time[0] = parseInt(time[0]) + 12;
