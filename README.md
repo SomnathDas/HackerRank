@@ -12,8 +12,7 @@
 
 This repository contains my solutions for HackerRank problems and also certifications.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/SomnathDas/HackerRank)](https://github.com/SomnathDas/HackerRank/commits/main)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/SomnathDas/HackerRank?style=for-the-badge)
 ## My HackerRank Profile
 <div align="center">
 <img src="https://media.giphy.com/media/td3fwl4I8261W/source.gif" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen> </img>
