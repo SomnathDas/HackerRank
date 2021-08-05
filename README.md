@@ -34,6 +34,7 @@ This repository contains my solutions for HackerRank problems and also certifica
 * [Mathmatics](#mathematics)
 * [Algorithms](#algorithms)
 * [1-Week-Preparation](#1-week-preparation)
+* [Miscellaneous](#miscellaneous)
 
 ## Algorithms
 | Name                    | Problem Url | Difficulty | Score | Solution |
@@ -63,7 +64,7 @@ This repository contains my solutions for HackerRank problems and also certifica
 ## Miscellaneous
 | Name                    | Problem Url | Difficulty | Score | Solution |
 |-------------------------|-------------|------------|-------|----------|
-| Dictionaries and Map          |       [ProblemUrl](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)      | Easy       | 5     |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/mapDataStructure.js)       |
+| Dictionaries and Map          |       [ProblemUrl](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)      | Easy       | 5     |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Misc/mapDataStructure.js)       |
 
 
 ## Certificates
