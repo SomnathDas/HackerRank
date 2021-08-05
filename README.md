@@ -32,7 +32,17 @@ This repository contains my solutions for HackerRank problems and also certifica
 
 * [Certificates](#certificates)
 * [Mathmatics](#mathematics)
+* [Algorithms](#algorithms)
 * [1-Week-Preparation](#1-week-preparation)
+
+## Algorithms
+| Name                    | Problem Url | Difficulty | Score | Solution |
+|-------------------------|-------------|------------|-------|----------|
+| Birthday Cake Candles         |       [ProblemUrl](https://www.hackerrank.com/challenges/birthday-cake-candles)      | Easy       | 10     |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/birthdayCakeCandles.js)       |
+| Compare The Triplets               |     [ProblemUrl](https://www.hackerrank.com/challenges/compare-the-triplets)        | Easy       | 10    |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/compareTheTriplets.js)       |
+| Staircase           |       [ProblemUrl](https://www.hackerrank.com/challenges/staircase/)      | Easy       | 10    |     [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/staircase.js)     |
+| Grading Students |    [ProblemUrl](https://www.hackerrank.com/challenges/grading/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/gradingStudents.js)      |
+| Simple Array Sum |    [ProblemUrl](https://www.hackerrank.com/challenges/simple-array-sum/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/simpleArraySum.js)      |
 
 ## Mathematics
 | Name                    | Problem Url | Difficulty | Score | Solution |
@@ -49,6 +59,11 @@ This repository contains my solutions for HackerRank problems and also certifica
 | Plus Minus          |       [ProblemUrl](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)      | Easy       | 100     |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/One-Week-Preparation/Day1/plusMinus.js)       |
 | Mini Max Sum              |     [ProblemUrl](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)        | Easy       | 100    |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/One-Week-Preparation/Day1/miniMaxSum.js)       |
 | Time Conversion           |       [ProblemUrl](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)      | Easy       | 100     |     [Solution](https://github.com/SomnathDas/HackerRank/blob/main/One-Week-Preparation/Day1/timeConversion.js)     |
+
+## Miscellaneous
+| Name                    | Problem Url | Difficulty | Score | Solution |
+|-------------------------|-------------|------------|-------|----------|
+| Dictionaries and Map          |       [ProblemUrl](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)      | Easy       | 5     |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/mapDataStructure.js)       |
 
 
 ## Certificates
