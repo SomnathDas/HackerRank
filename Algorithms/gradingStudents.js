@@ -37,34 +37,34 @@ function readLine() {
  */
 
 // Helper Function
-const nearestFiveMultiple = (number) => {
-  let n = Math.ceil(number / 5);
-  return n * 5;
+const nearestFiveMultiple = (numArr) => {
+  return numArr.map((x) => Math.ceil(x / 5) * 5);
 };
 
 // Main Function | Type-I
-function gradingStudents(grades) {
-  let finalGrades = 0;
-  let nearestFive = nearestFiveMultiple(grades);
-  Math.abs(grades - nearestFive) < 3
-    ? (finalGrades = nearestFive)
-    : grades < 40
-    ? (finalGrades = grades)
-    : (finalGrades = grades);
-  console.log(finalGrades);
-  return finalGrades;
+function gradingStudents(gradesArr) {
+  let finalGradesArr = [];
+  let nearestFiveArr = nearestFiveMultiple(gradesArr);
+  for (let i = 0; i < gradesArr.length; i++) {
+    Math.abs(gradesArr[i] - nearestFiveArr[i]) < 3 && gradesArr[i] >= 38
+      ? finalGradesArr.push(nearestFiveArr[i])
+      : finalGradesArr.push(gradesArr[i]);
+  }
+  return finalGradesArr;
 }
 
 // Main Function | Type-II
-function gradingStudents(grades) {
-  let finalGrades = 0;
-  let nearestFive = nearestFiveMultiple(grades);
-  if (Math.abs(grades - nearestFive) < 3 && grades > 40) {
-    finalGrades = nearestFive;
-  } else {
-    finalGrades = grades;
+function gradingStudents(gradesArr) {
+  let finalGradesArr = [];
+  let nearestFiveArr = nearestFiveMultiple(gradesArr);
+  for (let i = 0; i < gradesArr.length; i++) {
+    if (Math.abs(gradesArr[i] - nearestFiveArr[i]) < 3 && gradesArr[i] >= 38) {
+      finalGradesArr.push(nearestFiveArr[i]);
+    } else {
+      finalGradesArr.push(gradesArr[i]);
+    }
   }
-  return finalGrades;
+  return finalGradesArr;
 }
 
 // Engine
