@@ -44,6 +44,8 @@ This repository contains my solutions for HackerRank problems and also certifica
 | Staircase           |       [ProblemUrl](https://www.hackerrank.com/challenges/staircase/)      | Easy       | 10    |     [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/staircase.js)     |
 | Grading Students |    [ProblemUrl](https://www.hackerrank.com/challenges/grading/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/gradingStudents.js)      |
 | Simple Array Sum |    [ProblemUrl](https://www.hackerrank.com/challenges/simple-array-sum/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/simpleArraySum.js)      |
+| Apple and Orange |    [ProblemUrl](https://www.hackerrank.com/challenges/apple-and-orange/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/appleAndOrange.ts)      |
+| Number Line Jumps |    [ProblemUrl](https://www.hackerrank.com/challenges/kangaroo/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/numberLineJumps.ts)      |
 
 ## Mathematics
 | Name                    | Problem Url | Difficulty | Score | Solution |
