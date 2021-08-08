@@ -46,6 +46,8 @@ This repository contains my solutions for HackerRank problems and also certifica
 | Simple Array Sum |    [ProblemUrl](https://www.hackerrank.com/challenges/simple-array-sum/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/simpleArraySum.js)      |
 | Apple and Orange |    [ProblemUrl](https://www.hackerrank.com/challenges/apple-and-orange/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/appleAndOrange.ts)      |
 | Number Line Jumps |    [ProblemUrl](https://www.hackerrank.com/challenges/kangaroo/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/numberLineJumps.ts)      |
+| Breaking The Records |    [ProblemUrl](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/breakingTheRecords.ts)      |
+
 
 ## Mathematics
 | Name                    | Problem Url | Difficulty | Score | Solution |
