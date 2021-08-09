@@ -47,6 +47,7 @@ This repository contains my solutions for HackerRank problems and also certifica
 | Apple and Orange |    [ProblemUrl](https://www.hackerrank.com/challenges/apple-and-orange/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/appleAndOrange.ts)      |
 | Number Line Jumps |    [ProblemUrl](https://www.hackerrank.com/challenges/kangaroo/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/numberLineJumps.ts)      |
 | Breaking The Records |    [ProblemUrl](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/breakingTheRecords.ts)      |
+| Sub Array Division |    [ProblemUrl](https://www.hackerrank.com/challenges/the-birthday-bar/problem)         | Easy       | 10    |    [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Algorithms/subArrayDivision.ts)      |
 
 
 ## Mathematics
