@@ -1,3 +1,9 @@
+/*
+Problem Name: Sub Array Division
+Problem Details: https://www.hackerrank.com/challenges/the-birthday-bar/problem
+Difficulty: Easy
+*/
+
 // Helper Function
 function subset(arr: number[], n: number): any[] {
   let resultArr = []; // Possible Sub Arrays
