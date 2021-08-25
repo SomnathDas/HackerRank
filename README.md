@@ -70,6 +70,7 @@ This repository contains my solutions for HackerRank problems and also certifica
 | Name                    | Problem Url | Difficulty | Score | Solution |
 |-------------------------|-------------|------------|-------|----------|
 | Dictionaries and Map          |       [ProblemUrl](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)      | Easy       | 30     |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Misc/mapDataStructure.js)       |
+| Java Anagrams          |       [ProblemUrl](https://www.hackerrank.com/challenges/java-anagrams/problem)      | Easy       | 10     |   [Solution](https://github.com/SomnathDas/HackerRank/blob/main/Misc/JavaAnagrams.java)       |
 
 
 ## Certificates
